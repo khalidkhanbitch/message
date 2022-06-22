@@ -97,7 +97,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             const Text(
-              'Welcome To A Demo  APP',
+              'Welcome To Github Demo  APP',
             ),
             Text(
               '$Message',
